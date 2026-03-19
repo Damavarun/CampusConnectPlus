@@ -1,8 +1,8 @@
-### CampusConnectPlus is a platform designed to manage and organize workshops and campus events efficiently.
-### It helps students and organizers stay updated with upcoming sessions, registrations, schedules, and event information.
+**### CampusConnectPlus is a platform designed to manage and organize workshops and campus events efficiently.
+**### It helps students and organizers stay updated with upcoming sessions, registrations, schedules, and event information.
 
-### SEPM (SOFTWARE ENGINEERING AND PROJECT MANAGEMENT)
-
+*### SEPM (SOFTWARE ENGINEERING AND PROJECT MANAGEMENT)**
+**
 
 ### 🚀Features
 
