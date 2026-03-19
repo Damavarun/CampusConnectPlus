@@ -45,12 +45,13 @@ CampusConnectPlus/
 
 ## 
 ### ⚙️ Installation & Setup
-1️⃣ Clone the repository
+
+### 1️⃣ Clone the repository
   git clone https://github.com/Damavarun/CampusConnectPlus.git
   cd CampusConnectPlus
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
   npm install
-3️⃣ Run the project
+### 3️⃣ Run the project
   npm start
 
 
