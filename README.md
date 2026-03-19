@@ -1,7 +1,6 @@
 CampusConnectPlus is a platform designed to manage and organize workshops and campus events efficiently.
 It helps students and organizers stay updated with upcoming sessions, registrations, schedules, and event information.
 
-### --------------------------------------------------------------------------
 
 ### 🚀Features
 
@@ -15,7 +14,6 @@ It helps students and organizers stay updated with upcoming sessions, registrati
 
 📂 Resource Sharing for Workshops
 
-### --------------------------------------------------------------------------
 
 ### Purpose
 
@@ -31,7 +29,6 @@ Sharing workshop materials
 
 Improving communication between organizers and students
 
-### --------------------------------------------------------------------------
 ### 📂 Project Structure
 
 ```
@@ -42,7 +39,6 @@ CampusConnectPlus/
 │── README.md
 
 ```
-### --------------------------------------------------------------------------
 ### ⚙️ Installation & Setup
 1️⃣ Clone the repository
   git clone https://github.com/Damavarun/CampusConnectPlus.git
@@ -52,7 +48,6 @@ CampusConnectPlus/
 3️⃣ Run the project
   npm start
 
-### --------------------------------------------------------------------------
 ### 👨‍💻Author
 
 Varun
