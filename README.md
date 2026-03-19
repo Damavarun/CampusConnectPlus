@@ -31,6 +31,7 @@ Sharing workshop materials
 
 Improving communication between organizers and students
 
+## 
 ### 📂 Project Structure
 
 ```
@@ -41,6 +42,8 @@ CampusConnectPlus/
 │── README.md
 
 ```
+
+## 
 ### ⚙️ Installation & Setup
 1️⃣ Clone the repository
   git clone https://github.com/Damavarun/CampusConnectPlus.git
@@ -50,6 +53,8 @@ CampusConnectPlus/
 3️⃣ Run the project
   npm start
 
+
+## 
 ### 👨‍💻Author
 
 Varun
